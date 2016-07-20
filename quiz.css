@@ -1,0 +1,49 @@
+body {
+
+}
+
+.container {
+  display: inline-block;
+  border: 1px solid lightblue;
+  float: left;
+  width: 30%;
+  text-align: center;
+  margin: 5px 10px;
+  min-height: 800px;
+  max-height: 900px
+}
+
+.name {
+  font-family: Geneva, sans serif;
+}
+
+p {
+  text-align: justify;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.available {
+  text-align: left;
+  color: yellow;
+  background-color: grey;
+  width: 100%;
+}
+
+.left {
+  text-align: left;
+}
+
+.crop {
+ height: 200px;
+ width: 250px;
+ overflow: hidden;
+}
+
+.border {
+  border:  1px dotted gray;
+  margin-bottom: 10px;
+  min-height: 110px;
+}
